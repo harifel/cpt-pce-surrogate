@@ -1,0 +1,14 @@
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+uqpylab
+jupyterlab
+openpyxl
+nbformat
+emcee
+corner
+tqdm
+shapely
