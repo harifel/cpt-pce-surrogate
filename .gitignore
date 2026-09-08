@@ -1,2 +1,4 @@
 /venv
 src/config.py
+/src/SBT
+/src/__pycache__
