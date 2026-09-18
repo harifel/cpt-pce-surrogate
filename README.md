@@ -14,8 +14,6 @@ PCE surrogate models (built with [UQPyLab](https://www.uqlab.com/)) are trained 
 ├── models/             - saved PCE models
 ├── src/
 │   ├── 1000_forward_model_PCE.ipynb               - forward PCE (full dataset)
-│   ├── 1001_forward_model_PCE_sensitivity_OCR=1.ipynb  - forward PCE + Sobol (OCR=1)
-│   ├── 1002_forward_model_PCE_sensitivity_OCR.ipynb    - forward PCE + Sobol (varying OCR)
 │   ├── 1010_inverse_model_PCE.ipynb               - inverse PCE
 │   ├── data_loading.py / pce_utils.py / plotting.py / utils.py
 │   ├── config.py           - UQPyLab token (not tracked)
